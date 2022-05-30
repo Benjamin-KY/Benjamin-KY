@@ -1,6 +1,5 @@
 # Hi there 👋, My name is Benjamin Kereopa-Yorke
 
-<img width="100%" src="(https://github.com/Benjamin-KY/Benjamin-KY/blob/main/github-header-image(2).png)" alt="my banner">
 
 Passionate about cyber security and developing solutions to problems affecting us all
 
@@ -11,22 +10,5 @@ Passionate about cyber security and developing solutions to problems affecting u
 <p>🌱 I'm currently learning ML, Advanced Python, Go</p>
 <p>💬 Ask me about Cyber Security</p>
 <p>⚡ Fun Fact: I am severely deaf and wear hearing aids</p>
-
-## 💻 Skills
-<p>
-</p>
-
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
 
 ## 📊 Github Status
