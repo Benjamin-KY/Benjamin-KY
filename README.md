@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Benjamin Kereopa-Yorke
 
-<img width="100%" src="github-header-image (2).png" alt="my banner">
+<img width="100%" src="github-header-image (3).png" alt="my banner">
 
 Passionate about cyber security and developing solutions to problems affecting us all
 
@@ -12,4 +12,3 @@ Passionate about cyber security and developing solutions to problems affecting u
 <p>💬 Ask me about Cyber Security</p>
 <p>⚡ Fun Fact: I am severely deaf and wear hearing aids</p>
 
-## 📊 Github Status
