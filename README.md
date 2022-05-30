@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Benjamin Kereopa-Yorke
 
-<img width="100%" src="(https://github.com/Benjamin-KY/Benjamin-KY/blob/main/github-header-image%20(2).png)" alt="my banner">
+<img width="100%" src="(https://github.com/Benjamin-KY/Benjamin-KY/blob/main/github-header-image(2).png)" alt="my banner">
 
 Passionate about cyber security and developing solutions to problems affecting us all
 
